@@ -1,0 +1,9 @@
+{
+    "name": "avtomon/pStrength",
+    "description": "pStrength fork",
+    "type": "project",
+    "minimum-stability": "dev",
+    "config": {
+	      "process-timeout": 1800
+    }
+}
