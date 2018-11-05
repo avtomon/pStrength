@@ -2,6 +2,6 @@
     "name": "avtomon/pStrength",
     "description": "pStrength fork",
     "require": {
-        "bower-asset/jquery": "dev-master"
+        "bower-asset/jquery": "*"
     }
 }
