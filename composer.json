@@ -1,5 +1,5 @@
 {
-    "name": "avtomon/pStrength",
+    "name": "avtomon/pstrength",
     "description": "pStrength fork",
     "require": {
         "bower-asset/jquery": "*"
